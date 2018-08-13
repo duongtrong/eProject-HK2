@@ -1,0 +1,23 @@
+c:\users\mypc\source\repos\Music\Music\bin\Debug\Music.exe.config
+c:\users\mypc\source\repos\Music\Music\bin\Debug\Music.exe
+c:\users\mypc\source\repos\Music\Music\bin\Debug\Music.pdb
+c:\users\mypc\source\repos\Music\Music\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\mypc\source\repos\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+c:\users\mypc\source\repos\Music\Music\obj\Debug\Music.Form1.resources
+c:\users\mypc\source\repos\Music\Music\obj\Debug\Music.Properties.Resources.resources
+c:\users\mypc\source\repos\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+c:\users\mypc\source\repos\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+c:\users\mypc\source\repos\Music\Music\obj\Debug\Music.csproj.CopyComplete
+c:\users\mypc\source\repos\Music\Music\obj\Debug\Music.exe
+c:\users\mypc\source\repos\Music\Music\obj\Debug\Music.pdb
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\bin\Debug\Music.exe.config
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\bin\Debug\Music.exe
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\bin\Debug\Music.pdb
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\obj\Debug\Music.Form1.resources
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\obj\Debug\Music.csproj.CopyComplete
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\obj\Debug\Music.exe
+C:\Users\VI-VU\Documents\Visual Studio 2017\Backup Files\Music\Music\obj\Debug\Music.pdb
